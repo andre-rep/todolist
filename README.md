@@ -40,10 +40,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/36203075?v=4" width="100px;" alt=""/>
+<a href="https://github.com/andre-rep">
+ <img style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/36203075?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>André Nascimento</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+ <sub><b>André Nascimento</b></sub></a> <a href="https://github.com/andre-rep" title="Github">🚀</a>
 
 
 Feito com ❤️ por André Nascimento
