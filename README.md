@@ -20,8 +20,30 @@ $ git clone <https://github.com/andre-rep/todolist>
 # Acesse a pasta do projeto no terminal/cmd
 $ cd todolist
 
+# Instale as dependências
+$ npm install
+
 # Execute o servidor
 $ npm run serve
 
 # O servidor inciará na porta:8080 - acesse <http://localhost:8080>
 ```
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [VueJs](https://vuejs.org/)
+- [Git](https://git-scm.com/)
+
+### Autor
+---
+
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/36203075?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>André Nascimento</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+
+
+Feito com ❤️ por André Nascimento
