@@ -41,7 +41,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 <a href="https://github.com/andre-rep">
- <img src="https://avatars.githubusercontent.com/u/36203075?v=4" width="100px;" border-radius="50%" alt=""/>
+ <img style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/36203075?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>André Nascimento</b></sub></a> <a href="https://github.com/andre-rep" title="Github">🚀</a>
 
