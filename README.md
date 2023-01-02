@@ -23,6 +23,9 @@ $ cd todolist
 # Instale as dependências
 $ npm install
 
+# Execute o servidor json
+$ json-server --watch bd.json
+
 # Execute o servidor
 $ npm run serve
 
